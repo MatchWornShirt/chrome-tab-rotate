@@ -6,12 +6,12 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2023",
+      "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2023#refresh=30&theme=night",
       "duration": 30,
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://metabase.matchwornshirt.com/dashboard/36-live-event-tracker",
+      "url": "https://metabase.matchwornshirt.com/dashboard/36-live-event-tracker#refresh=30&theme=night",
       "duration": 30,
       "tabReloadIntervalSeconds": 0
     },
