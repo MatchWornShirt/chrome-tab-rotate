@@ -7,17 +7,17 @@
   "websites": [
     {
       "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2023#refresh=30&theme=night&fullscreen",
-      "duration": 30,
+      "duration": 90,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://metabase.matchwornshirt.com/dashboard/36-live-event-tracker#refresh=30&theme=night&fullscreen",
-      "duration": 30,
+      "duration": 90,
       "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://docs.google.com/spreadsheets/d/1eR5PsGQ24oFRhYScMBntb1d4BRiY9fSCheyU8v1FPG8/edit?rm=minimal#gid=1224880793",
-      "duration": 30,
+      "duration": 90,
       "tabReloadIntervalSeconds": 0
     }
   ]
