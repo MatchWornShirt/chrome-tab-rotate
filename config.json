@@ -1,24 +1,24 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
-  "autoStart": false,
+  "fullscreen": true,
+  "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2023",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 55
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://metabase.matchwornshirt.com/dashboard/36-live-event-tracker",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 55
     },
     {
-      "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://docs.google.com/spreadsheets/d/1eR5PsGQ24oFRhYScMBntb1d4BRiY9fSCheyU8v1FPG8/edit#gid=1224880793",
+      "duration": 30,
+      "tabReloadIntervalSeconds": 55
     }
   ]
 }
