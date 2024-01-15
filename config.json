@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2023#refresh=30&theme=night&fullscreen",
+      "url": "https://metabase.matchwornshirt.com/dashboard/3-kpi-dashboard?year=2024#refresh=30&theme=night&fullscreen",
       "duration": 90,
       "tabReloadIntervalSeconds": 0
     },
